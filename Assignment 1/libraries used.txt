@@ -1,0 +1,6 @@
+**All libraries used are up-to-date
+
+numpy
+random
+math
+matplotlib
